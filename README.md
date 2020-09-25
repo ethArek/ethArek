@@ -9,9 +9,10 @@ I'm a big fan of blockchain and cryptocurrencies, especially Ethereum and Opacit
 - Pascal (see - [Pascal-code-examples](https://github.com/ethArek/Pascal-code-examples/))
 - React.js
 - Solidity
+- Electronics (shit, I don't even know how electricity works but whatever)
 
 ## ⚡ Fun facts
 - I started programming when I was 12.
 - My first programming language was Pascal - I have cool memories with those times (Turbo Pascal 7.0) - this is why I learn modern Pascal now.
 - I study Computer Science on Cracow University of Technology
-- Devout Catholic - Ora et Labora :heavy_plus_sign:
+- Catholic :heavy_plus_sign:
