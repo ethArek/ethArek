@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## :boy: Who am I 
-My name is Arek. Currently I'm a junior web developer from Poland. In my job I work with Node.js, Typescript, Go, React.js, PostgreSQL, Kubernetes, RabbitMQ and many more. 
+My name is Arek. Currently I'm a junior backend developer from Poland. In my job I work with Node.js, Typescript, Go, React.js, PostgreSQL, Kubernetes, RabbitMQ and many more. 
 Programming is my passion, so I build my own projects after work.
 I'm a big fan of blockchain and cryptocurrencies, especially Ethereum and Opacity. 
 
