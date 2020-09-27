@@ -9,7 +9,7 @@ I'm a big fan of blockchain and cryptocurrencies, especially Ethereum and Opacit
 - Pascal (see - [Pascal-code-examples](https://github.com/ethArek/Pascal-code-examples/))
 - React.js
 - Solidity
-- Electronics (shit, I don't even know how electricity works but whatever)
+- Electronics (Arduino, Raspberry Pi)
 
 ## ⚡ Fun facts
 - I started programming when I was 12.
